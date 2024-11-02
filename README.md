@@ -8,3 +8,6 @@ This is a simple app designed to test the deployment and functionality of a clou
 
 ## Purpose
 This project is intended to demonstrate the basics of app deployment using GitHub, cloud functions, and CI/CD automation.
+
+
+this is a change to test if it gets pushed into lamda
